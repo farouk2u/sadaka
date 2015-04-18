@@ -4,7 +4,7 @@ Sadaka is a nice responsive html5 template built with the latest version of boot
 
 Sadaka is destined to charity, non-profit organizations websites, this template allows them to present themselves and collect donations for their causes.
 
-##### [>> demo](http://demo.ouarmedia.com/sadaka)
+##### [>> demo](http://demo.ouarmedia.com/sadaka) - [>> Download](https://github.com/farouk2u/sadaka/archive/v1.0.zip)
 
 
 ##Features
@@ -34,3 +34,4 @@ Sadaka is destined to charity, non-profit organizations websites, this template 
 #### Images:
 - Flickr - [https://www.flickr.com/](https://www.flickr.com/) https://www.flickr.com/
 - Pixabay - [http://pixabay.com/](http://pixabay.com/) http://pixabay.com/
+
