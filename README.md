@@ -1,11 +1,11 @@
-**Sadaka is a nice responsive html5 template built with the latest version of bootstrap framework Sass & Compass (sass files are included).
+Sadaka is a nice responsive html5 template built with the latest version of bootstrap framework Sass & Compass (sass files are included).
 
-**Sadaka is destined to charity, non-profit organizations websites, this template allows them to present themselves and collect donations for their causes.
+Sadaka is destined to charity, non-profit organizations websites, this template allows them to present themselves and collect donations for their causes.
 
-#### Demo :
+##### Demo :
 [http://demo.ouarmedia.com/sadaka](http://demo.ouarmedia.com/sadaka)
 
-![Sadaka screenshot](//screenshot.jpg?raw=true "Sadaka screenshot")
+![Sadaka screenshot](/screenshot.jpg?raw=true "Sadaka screenshot")
 
 ##Features
 - Bootstrap 3.3 
