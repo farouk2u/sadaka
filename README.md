@@ -29,9 +29,9 @@ Sadaka is destined to charity, non-profit organizations websites, this template 
 - PrettyPhoto 3.1.5 - [http://www.no-margin-for-errors.com](http://www.no-margin-for-errors.com) 
 
 #### Fonts:
-- Google Fonts - [https://www.google.com/fonts](https://www.google.com/fonts) https://www.google.com/fonts
+- Google Fonts - [https://www.google.com/fonts](https://www.google.com/fonts)
 
 #### Images:
-- Flickr - [https://www.flickr.com/](https://www.flickr.com/) https://www.flickr.com/
-- Pixabay - [http://pixabay.com/](http://pixabay.com/) http://pixabay.com/
+- Flickr -  https://www.flickr.com/
+- Pixabay - http://pixabay.com/
 
