@@ -30,5 +30,5 @@ Sadaka is destined to charity, non-profit organizations websites, this template 
 - Pixabay - [http://pixabay.com/](http://pixabay.com/) http://pixabay.com/
 
 
-## Demo :
-[demo.ouarmedia.com/sadaka](demo.ouarmedia.com/sadaka) 
+### Demo :
+[http://demo.ouarmedia.com/sadaka](http://demo.ouarmedia.com/sadaka) 
