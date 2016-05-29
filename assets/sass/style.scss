@@ -945,7 +945,11 @@ form {
 		@include transition(all, .5s);
 	}
 
+
+
 	.on-hover {
+
+
 
 		position: absolute;
 		visibility: hidden;
@@ -958,6 +962,9 @@ form {
 		background:rgba($color_main, 0.75);
 		@include opacity(0);
 		@include transition(all, .6s);
+
+
+	
 
 		.hover-caption {
 			

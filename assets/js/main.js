@@ -26,6 +26,7 @@ $(function(){
 		      "<i class='glyphicon glyphicon-chevron-right'></i>"
 		    ],
 		    responsive:{
+
 		        0:{
 		            items:2
 		        },
@@ -45,6 +46,7 @@ $(function(){
     ================================================*/
 
     $(".ajax-form").on('submit', function() {
+    	
     	var form = $(this);
         var formURL = $(this).attr("action");
         var postData = $(this).serializeArray();
